@@ -1,0 +1,16 @@
+Package: grpc-cs6200
+Version: 1.75.0
+Architecture: amd64
+Maintainer: VSP <vsp7@gatech.edu>
+Filename: ./grpc-cs6200_v1.75.0_amd64.deb
+Size: 16837220
+MD5sum: 9edec22e1072eb0c9503fb193d025446
+SHA1: 893f7fadb3346cb4ebe3e006d7137cc30d86f468
+SHA256: 652795d19d31654dca5bb184833301ad47b0ae3667ac0469ab1f939b28c24c50
+Section: base
+Priority: optional
+Description: gRPC + Protocol Buffers development kit (C & C++)
+ Provides protoc compiler, gRPC C-core and C++ libraries,
+ grpc_cpp_plugin, headers, and pkg-config files for building
+ gRPC applications with Makefiles or CMake.
+
