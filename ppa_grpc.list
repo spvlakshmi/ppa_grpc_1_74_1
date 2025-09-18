@@ -1,1 +1,1 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/ppa_grpc.gpg] https://spvlakshmi.github.io/ppa_grpc ./
+deb [signed-by=/usr/share/keyrings/ppa_grpc-keyring.gpg] https://spvlakshmi.github.io/ppa_grpc_1_74_1 ./
